@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Make 2048
 A Udacity version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 
@@ -18,3 +19,9 @@ Gabriele made this in his spare time, and it's hosted on GitHub (which means I d
 
 Poker variation of the 2048 game
 >>>>>>> 0b328a1d681b8fb6debecbd062d03be52b3eefeb
+=======
+2048_Poker
+==========
+
+Poker combinations variation of 2048
+>>>>>>> 68556ed0a09b56ad2b332e6285d50eb8983d47ea
